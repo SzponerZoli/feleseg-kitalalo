@@ -5,4 +5,4 @@
  * Írd be a teljes neved és nyomd meg az **OK** gombot.
  * Nézz a képernyő tetejére.
 ## FONTOS!
- Terminálban, vagy egyéb operációs rendszeren való futtatás esetén a `feleseg-kitalalo_portable.py` fájlt kell választani!
+ Terminálban, vagy egyéb operációs rendszeren való futtatás esetén a `feleseg-kitalalo_portable.py` fájlt kell futtatni!
