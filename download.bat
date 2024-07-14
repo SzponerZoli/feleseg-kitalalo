@@ -5,5 +5,5 @@ if %errorLevel% == 0 (
     curl -o "C:\Program Files\Szponer\kitalalo\feleseg.exe" https://raw.githubusercontent.com/SzponerZoli/feleseg-kitalalo/main/feleseg.exe
 ) else (
     echo Requesting admin privileges...
-    powershell start-process elevated_curl_download.bat -verb runas
+    powershell start-process download.bat -verb runas
 )
