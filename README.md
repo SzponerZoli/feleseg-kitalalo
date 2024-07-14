@@ -1,8 +1,8 @@
-## feleseg-kitalalo
+# feleseg-kitalalo
  Egy program ami kitalálja a feleséged nevét
-## Útmutató
- * Telepítsd fel a `feleseg-kitalalo-INSTALLER.exe` fájlt, vagy futtasd a `feleseg-kitalalo-PORTABLE.exe` fájlt.
- * Írd be a teljes neved és nyomd meg az **OK** gombot.
- * Nézz a képernyő tetejére.
-## FONTOS!
- Terminálban, vagy egyéb operációs rendszeren való futtatás esetén a `feleseg-kitalalo_portable.py` fájlt kell futtatni!
+# Útmutató
+ ## Telepítés
+* Telepítsd fel a `feleseg-kitalalo-INSTALLER.exe` fájlt, vagy csomagold ki a `feleseg-kitalalo-Portable.zip` fájlt és futtasd a `feleseg-kitalalo-Windows.exe`, a `feleseg-kitalalo-Linux.sh`, vagy a `feleseg-kitalalo-MacOS.command` fájlt.
+ ## Használat
+* Írd be a teljes neved és nyomd meg az **OK** gombot.
+* Nézz az ablak tetejére.
